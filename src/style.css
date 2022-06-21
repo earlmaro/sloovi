@@ -1,0 +1,24 @@
+.parent {
+    width: 60% !important;
+    height: auto !important;
+    box-shadow: 1px 1px 1px 1px;
+    margin-top: 30px;
+    padding: 18px;
+   }
+
+ .btn {
+     /* background-color: white; */
+     border: 1px solid;
+     color: black;
+     padding: 12px 16px;
+     font-size: 10px;
+     /* cursor: pointer; */
+ }
+ .add_btn {
+     /* background-color: white; */
+     border: 1px solid;
+     color: black;
+     padding: 12px 16px;
+     font-size: 20px;
+     /* cursor: pointer; */
+ }
